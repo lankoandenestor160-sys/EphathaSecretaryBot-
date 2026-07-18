@@ -1,6 +1,6 @@
 name: Ephatha Secretary Bot
 
-on:
+on: 
   workflow_dispatch:
 
 jobs:
